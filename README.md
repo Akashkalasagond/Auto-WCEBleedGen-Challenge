@@ -1,4 +1,4 @@
-# Auto-WCEBleedGen-Challenge(https://misahub.in/CVIP/challenge.html)
+# [Auto-WCEBleedGen-Challenge](https://misahub.in/CVIP/challenge.html)
 - Classification Folder contains
   -  Model folder
      -  "Train and Test.py" contains the code for Train , validation and Testing for the datasets provided.
@@ -243,35 +243,15 @@ Intersection over Union           | 0.50
 
 
 
-
-
-
-
-
-
-
-# Validation Dataset Showing Its Classification
-
+# Validation Dataset Showing Its Interpretability Plot
 <table>
   <tr>
     <td align="center">
-      <img src="" width="300px">
+      <img src="https://github.com/kasamrohith02/Auto-WCEBleedGen-Challenge/assets/143547473/90050adc-5cef-4992-9ba1-746e67cf44af" width="650px">
       <br>
     </td>
     <td align="center">
-      <img src="https://github.com/kasamrohith02/Auto-WCEBleedGen-Challenge/assets/117301325/eaed66b1-192b-41b5-a996-3a0816e22ddf" width="300px">
-      <br>
-    </td>
-    <td align="center">
-      <img src="https://github.com/kasamrohith02/Auto-WCEBleedGen-Challenge/assets/117301325/9d1a80de-df51-4973-9627-3b8d386e93b8" width="300px">
-      <br>
-    </td>
-    <td align="center">
-      <img src="https://github.com/kasamrohith02/Auto-WCEBleedGen-Challenge/assets/117301325/adc1ef73-efa3-4c98-adc2-2352eb84d6a0" width="300px">
-      <br>
-    </td>
-    <td align="center">
-      <img src="https://github.com/kasamrohith02/Auto-WCEBleedGen-Challenge/assets/117301325/ebc3c33a-1b57-4ff6-8c35-8f454553c7c6" width="300px">
+      <img src="https://github.com/kasamrohith02/Auto-WCEBleedGen-Challenge/assets/143547473/af331ba9-0866-406d-9d28-489d7a9a06cc" width="650px">
       <br>
     </td>
   </tr>
@@ -279,49 +259,58 @@ Intersection over Union           | 0.50
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/kasamrohith02/Auto-WCEBleedGen-Challenge/assets/117301325/d5d6cecb-8c4e-48b1-8128-7c3a962c661b" width="300px">
+      <img src="https://github.com/kasamrohith02/Auto-WCEBleedGen-Challenge/assets/143547473/9a57cb32-a6af-4fcb-a71b-41a22e30f901"width="650px">
       <br>
     </td>
     <td align="center">
-      <img src="https://github.com/kasamrohith02/Auto-WCEBleedGen-Challenge/assets/117301325/da523e36-f364-4ed5-b55a-c9688e56f8dc" width="300px">
-      <br>
-    </td>
-    <td align="center">
-      <img src="https://github.com/kasamrohith02/Auto-WCEBleedGen-Challenge/assets/117301325/716987ea-36d1-4eab-84b8-d6a2d6acd4cf" width="300px">
-      <br>
-    </td>
-    <td align="center">
-      <img src="https://github.com/kasamrohith02/Auto-WCEBleedGen-Challenge/assets/117301325/2450bb55-6a2d-439c-ba70-0e4bad499162" width="300px">
-      <br>
-    </td>
-    <td align="center">
-      <img src="https://github.com/kasamrohith02/Auto-WCEBleedGen-Challenge/assets/117301325/0cc3ca9f-6773-40fd-ba74-4c82611bd299" width="300px">
+      <img src="https://github.com/kasamrohith02/Auto-WCEBleedGen-Challenge/assets/143547473/9de7e2b2-00e8-4d8c-9bf5-2f3cd7fd2643" width="650px">
       <br>
     </td>
   </tr>
 </table>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/kasamrohith02/Auto-WCEBleedGen-Challenge/assets/143547473/40df3e9d-0d93-4450-b0a9-6322aeed40f6"width="650px">
+      <br>
+    </td>
+    <td align="center">
+      <img src="https://github.com/kasamrohith02/Auto-WCEBleedGen-Challenge/assets/143547473/c97dc649-a6df-498a-9766-5bceb759d709" width="650px">
+      <br>
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/kasamrohith02/Auto-WCEBleedGen-Challenge/assets/143547473/be428225-d562-451f-8801-7fc927d97472" width="650px">
+      <br>
+    </td>
+    <td align="center">
+      <img src="https://github.com/kasamrohith02/Auto-WCEBleedGen-Challenge/assets/143547473/58a8eae0-8e00-430e-ae03-35d6ab7ca78c" width="650px">
+      <br>
+    </td>
+    </tr>
+</table>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/kasamrohith02/Auto-WCEBleedGen-Challenge/assets/143547473/0aff6836-8ba2-406e-9bc3-adeec29d23c3" width="650px">
+      <br>
+    </td>
+    <td align="center">
+      <img src="https://github.com/kasamrohith02/Auto-WCEBleedGen-Challenge/assets/143547473/6e7d3ca5-00e3-457a-a744-c29040465490" width="650px">
+      <br>
+    </td>
+    </tr>
+</table>
 
 
-![1](https://github.com/kasamrohith02/Auto-WCEBleedGen-Challenge/assets/143547473/8f63272b-17db-415b-aeef-f6058978cc62)
-![2](https://github.com/kasamrohith02/Auto-WCEBleedGen-Challenge/assets/143547473/ce2f628e-6770-41e9-86bd-86a0226cb303)
-![3](https://github.com/kasamrohith02/Auto-WCEBleedGen-Challenge/assets/143547473/b5cf7d1a-b12a-4a32-841f-a7289a8c2a0c)
-![4](https://github.com/kasamrohith02/Auto-WCEBleedGen-Challenge/assets/143547473/34feb37d-1f11-4f34-827e-49d2c21a70d5)
-![5](https://github.com/kasamrohith02/Auto-WCEBleedGen-Challenge/assets/143547473/d88c62f8-e89f-48ab-a023-803ea6d90997)
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-# Testing Dataset Showing Its Classification
+# Testing Dataset Showing Its Interpretability Plot
 # Test Dataset 1
 <table>
   <tr>
@@ -338,11 +327,11 @@ Intersection over Union           | 0.50
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/kasamrohith02/Auto-WCEBleedGen-Challenge/assets/143547473/e7c5aab8-712f-4202-a233-2fe8f502c785"width="650px">
+      <img src="https://github.com/kasamrohith02/Auto-WCEBleedGen-Challenge/assets/143547473/b5cf7d1a-b12a-4a32-841f-a7289a8c2a0c"width="650px">
       <br>
     </td>
     <td align="center">
-      <img src="https://github.com/kasamrohith02/Auto-WCEBleedGen-Challenge/assets/143547473/ce2f628e-6770-41e9-86bd-86a0226cb303" width="650px">
+      <img src="https://github.com/kasamrohith02/Auto-WCEBleedGen-Challenge/assets/143547473/34feb37d-1f11-4f34-827e-49d2c21a70d5" width="650px">
       <br>
     </td>
   </tr>
@@ -350,7 +339,7 @@ Intersection over Union           | 0.50
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/kasamrohith02/Auto-WCEBleedGen-Challenge/assets/143547473/e7c5aab8-712f-4202-a233-2fe8f502c785"width="480px">
+      <img src="https://github.com/kasamrohith02/Auto-WCEBleedGen-Challenge/assets/143547473/d88c62f8-e89f-48ab-a023-803ea6d90997"width="480px">
       <br>
     </td>
   </tr>
@@ -360,23 +349,31 @@ Intersection over Union           | 0.50
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/kasamrohith02/Auto-WCEBleedGen-Challenge/assets/117301325/eaf9ac46-8eb1-468e-9609-03fdd3e237c4" width="300px">
+      <img src="https://github.com/kasamrohith02/Auto-WCEBleedGen-Challenge/assets/143547473/a0e06349-dc51-4cc8-9802-85af87db7a86" width="650px">
       <br>
     </td>
     <td align="center">
-      <img src="https://github.com/kasamrohith02/Auto-WCEBleedGen-Challenge/assets/117301325/3d5e61d7-92f0-41fb-85e3-9985c0f3e052" width="300px">
+      <img src="https://github.com/kasamrohith02/Auto-WCEBleedGen-Challenge/assets/143547473/c988d814-2db6-43cc-b4bb-bcf06641520d" width="650px">
+      <br>
+    </td>
+    </tr>
+</table>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/kasamrohith02/Auto-WCEBleedGen-Challenge/assets/143547473/eb2c4404-c3d3-4829-9c55-199f205bab83" width="650px">
       <br>
     </td>
     <td align="center">
-      <img src="https://github.com/kasamrohith02/Auto-WCEBleedGen-Challenge/assets/117301325/8a09bd32-5aa9-4622-8c7b-da5be3c88d39" width="300px">
+      <img src="https://github.com/kasamrohith02/Auto-WCEBleedGen-Challenge/assets/143547473/f0818d32-61ff-41e6-92b8-a5629ae5a7b1" width="650px">
       <br>
     </td>
+    </tr>
+</table>
+<table>
+  <tr>
     <td align="center">
-      <img src="https://github.com/kasamrohith02/Auto-WCEBleedGen-Challenge/assets/117301325/6476bc47-776b-438d-b8d0-4bcee9d2dc00" width="300px">
-      <br>
-    </td>
-    <td align="center">
-      <img src="https://github.com/kasamrohith02/Auto-WCEBleedGen-Challenge/assets/117301325/e5b5c2f9-22ff-43ce-9514-5246d343d125" width="300px">
+      <img src="https://github.com/kasamrohith02/Auto-WCEBleedGen-Challenge/assets/143547473/40cb467e-000b-4a39-9987-855be0b88b02" width="480px">
       <br>
     </td>
   </tr>
