@@ -24,14 +24,6 @@ Accuracy               | 98.85
 Recall                 | 99.62
 F1 Score               | 98.87
 
-## Detection Metrics
-
-Metrics                           | Value
---------------------------------- | -------------
-Average Precision                 | 65.50
-Mean Average Precision            | 61.51
-Intersection over Union           | 0.50
-
 
 
 # Validation Dataset Showing Its Classification
@@ -139,6 +131,23 @@ Intersection over Union           | 0.50
 </table>
 
 
+- Detection Folder contains
+  -  Weights folder
+     -  contains the "best_ckpt.pt" yolov6 model saved.
+  -  Output folder
+     - contains different Metric evaluations ( AP, MAP, IOU )
+  -  Pictures folder
+     - 5 best images selected from testing dataset 1 and 2 separately , 10 best images from Validation  showing its detection with confidence level
+  - CAM Plot folder
+     - contains 10 best images of interpretability plot(CAM) for Validation, test datasets
+   -  dataset.yaml
+      - defining the configuration and structure of the custom dataset
+  -  prediction_validation.csv
+     -  showing bbox's with confidence level on validation dataset
+  - yolov6_detection.py
+     - contains the code for Train , Test and Validation on Dataset to perform Detection
+
+    
 ## Detection Metrics
 
 Metrics                           | Value
@@ -254,7 +263,7 @@ Intersection over Union           | 0.50
 
 
 
-# Validation Dataset Showing Its Interpretability Plot
+# Validation Dataset Showing Its Interpretability Plot (CAM)
 <table>
   <tr>
     <td align="center">
@@ -321,7 +330,7 @@ Intersection over Union           | 0.50
 
 
 
-# Testing Dataset Showing Its Interpretability Plot
+# Testing Dataset Showing Its Interpretability Plot (CAM)
 # Test Dataset 1
 <table>
   <tr>
