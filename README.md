@@ -1,7 +1,4 @@
-![1](https://github.com/kasamrohith02/Auto-WCEBleedGen-Challenge/assets/117301325/8199f2a4-b9f9-473a-8f6b-5de97bb52a21)# Auto-WCEBleedGen-Challenge
-
-
-
+# Auto-WCEBleedGen-Challenge
 
 # validation dataset showing its classification
 
