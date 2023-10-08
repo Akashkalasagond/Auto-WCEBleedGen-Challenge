@@ -1,5 +1,5 @@
 # [Auto-WCEBleedGen-Challenge](https://misahub.in/CVIP/challenge.html)
-- Classification Folder contains
+<b>1. Classification Folder contains:</b>
   -  Model folder
      -  "Train and Test.py" contains the code for Train , validation and Testing for the datasets provided.
      -  "CNN2d.h5"  is saved model file size of 1.53Mb which is a Lightweight Architecture.
@@ -131,7 +131,7 @@ F1 Score               | 98.87
 </table>
 
 
-- Detection Folder contains
+<b>2. Detection Folder contains:</b>
   -  Weights folder
      -  contains the "best_ckpt.pt" yolov6 model saved.
   -  Output folder
@@ -399,5 +399,10 @@ Intersection over Union           | 0.50
   </tr>
 </table>
 
+<b>3. Excel Sheet Submission:</b>
+- The Excel sheet containing the image IDs and predicted class labels of testing dataset 1 is saved as <b>"test_dataset_1_predictions.xlsx"</b> 
+ [click me to download <b>"test_dataset_1_predictions.xlsx"</b>](https://github.com/kasamrohith02/Auto-WCEBleedGen-Challenge/blob/main/test_dataset_1_predictions.xlsx)
 
+- The Excel sheet containing the image IDs and predicted class labels of testing dataset 2 is saved as <b>"test_dataset_2_predictions.xlsx"</b> 
+ [click me to download <b>"test_dataset_2_predictions.xlsx"</b>](https://github.com/kasamrohith02/Auto-WCEBleedGen-Challenge/blob/main/test_dataset_2_predictions.xlsx)
 
