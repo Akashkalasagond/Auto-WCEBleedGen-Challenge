@@ -57,7 +57,7 @@
 </table>
 
 # Testing dataset showing its classification
-# Test Dataset1
+# Test Dataset 1
 <table>
   <tr>
     <td align="center">
@@ -83,7 +83,7 @@
   </tr>
 </table>
 
-# Test Dataset2
+# Test Dataset 2
 <table>
   <tr>
     <td align="center">
