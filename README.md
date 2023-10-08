@@ -109,6 +109,9 @@
   </tr>
 </table>
 
-[View Data Profiling report](https://htmlpreview.github.io/?https://github.com/kasamrohith02/Auto-WCEBleedGen-Challenge/blob/main/Classification.html)
+Click the link above to view the Data Profiling Report in your browser. [Data Profiling Report](https://htmlpreview.github.io/?https://github.com/kasamrohith02/Auto-WCEBleedGen-Challenge/blob/main/Classification/Data%20Profiling%20report/Data_Profiling_report.html)
+
+
+
 
 
