@@ -8,7 +8,7 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/kasamrohith02/Auto-WCEBleedGen-Challenge/assets/143547473/6925c7e2-ff2c-484b-9ea0-d000929781ba" width="300px">
+      <img src="https://github.com/kasamrohith02/Auto-WCEBleedGen-Challenge/assets/143547473/6ff967d6-6f7e-4864-b7c4-4923b816c61a" width="300px">
       <br>
     </td>
     <td align="center">
