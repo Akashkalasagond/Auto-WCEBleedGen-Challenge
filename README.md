@@ -12,7 +12,7 @@
      - the process of examining, analyzing, reviewing and summarizing data sets to gain insight into the quality of data
      - Click the link above to view the Data Profiling Report in your browser [Data Profiling Report](https://htmlpreview.github.io/?https://github.com/kasamrohith02/Auto-WCEBleedGen-Challenge/blob/main/Classification/Data%20Profiling%20report/Data_Profiling_report.html)
  - For More Clear Understanding
-    - Click here to check the notebook [Jupyter Notebook link](https://colab.research.google.com/drive/1NcEQ4AYXAuyDBVPScWmfjxFpnu9zSOsT?usp=sharing)   
+    - Click here to check the notebook [Jupyter Notebook link](https://colab.research.google.com/driv/1NcEQ4AYXAuyDBVPScWmfjxFpnu9zSOsT?usp=sharing)   
 
 Note: Due to the fact that we employed programmatic code to save the data profiling report in HTML, please take note. Consequently, there are almost 10,000 lines of HTML code, making up 98% of the entire language. Just ignore it.
        
@@ -137,6 +137,15 @@ Intersection over Union           | 0.50
     </td>
   </tr>
 </table>
+
+
+## Detection Metrics
+
+Metrics                           | Value
+--------------------------------- | -------------
+Average Precision                 | 65.50
+Mean Average Precision            | 61.51
+Intersection over Union           | 0.50
 
 
 # Validation Dataset Showing Its Detection
