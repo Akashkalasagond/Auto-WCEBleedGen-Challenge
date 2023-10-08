@@ -75,7 +75,7 @@
       <br>
     </td>
     <td align="center">
-      <img src="ttps://github.com/kasamrohith02/Auto-WCEBleedGen-Challenge/assets/117301325/dde5b36c-1f3a-4242-91e2-381acdd69e91" width="300px">
+      <img src="https://github.com/kasamrohith02/Auto-WCEBleedGen-Challenge/assets/117301325/ed450009-3998-459f-b124-1046443b1910" width="300px">
       <br>
     </td>
   </tr>
