@@ -5,10 +5,15 @@
      -  "CNN2d.h5"  is saved model file size of 1.53Mb which is a Lightweight Architecture.
      -  "extracted_features_Using_DenseNet 121" contains the features we extracted from the original images using Densenet121 to train the model well.
   -  Output folder
-     - conatains different Metric evaluations (ROC Curve , Confusion Matrix , Model loss and Accuracy plots , Accuracy, F1 score , Recall )
+     - contains different Metric evaluations (ROC Curve , Confusion Matrix , Model loss and Accuracy plots , Accuracy, F1 score , Recall )
   -  Pictures folder
-     - 5 best images selected from testing dataset 1 and 2 separately , 10 best images and interpretability plot  from Validation  showing its classification
+     - 5 best images selected from testing dataset 1 and 2 separately , 10 best images and interpretability plot(CAM)  from Validation  showing its classification
+  - Data Profiling report
+     - the process of examining, analyzing, reviewing and summarizing data sets to gain insight into the quality of data
+     - Click the link above to view the Data Profiling Report in your browser [Data Profiling Report](https://htmlpreview.github.io/?https://github.com/kasamrohith02/Auto-WCEBleedGen-Challenge/blob/main/Classification/Data%20Profiling%20report/Data_Profiling_report.html)
 
+Note: Due to the fact that we employed programmatic code to save the data profiling report in HTML, please take note. Consequently, there are almost 10,000 lines of HTML code, making up 98% of the entire language. Just ignore it.
+       
 ## Classification Metrics
 
 Metrics                 | Value
@@ -236,7 +241,6 @@ Intersection over Union           | 0.50
   </tr>
 </table>
 
-Click the link above to view the Data Profiling Report in your browser [Data Profiling Report](https://htmlpreview.github.io/?https://github.com/kasamrohith02/Auto-WCEBleedGen-Challenge/blob/main/Classification/Data%20Profiling%20report/Data_Profiling_report.html)
 
 
 
