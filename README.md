@@ -1,7 +1,22 @@
 # Auto-WCEBleedGen-Challenge
 
 
-# Metrics
+# Evaluation Metrics
+## Classification Metrics
+We have evaluated the classification model using the following metrics on the validation dataset:
+Metric                 | Value
+---------------------- | -------------
+Accuracy               | 98.85
+Recall                 | 99.62
+F1 Score               | 98.87
+
+## Detection Metrics
+The detection model's performance on the validation dataset is assessed using the following metrics:
+Metric                            | Value
+--------------------------------- | -------------
+Average Precision                 | 65.50
+Mean Average Precision            | 61.51
+Intersection over Union           | 0.5
 
 
 
