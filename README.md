@@ -1,4 +1,4 @@
-# Auto-WCEBleedGen-Challenge
+# Auto-WCEBleedGen-Challenge(https://misahub.in/CVIP/challenge.html)
 - Classification Folder contains
   -  Model folder
      -  "Train and Test.py" contains the code for Train , validation and Testing for the datasets provided.
@@ -326,23 +326,31 @@ Intersection over Union           | 0.50
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/kasamrohith02/Auto-WCEBleedGen-Challenge/assets/143547473/e7c5aab8-712f-4202-a233-2fe8f502c785"width="300px">
+      <img src="https://github.com/kasamrohith02/Auto-WCEBleedGen-Challenge/assets/143547473/e7c5aab8-712f-4202-a233-2fe8f502c785"width="650px">
       <br>
     </td>
     <td align="center">
-      <img src="" width="300px">
+      <img src="https://github.com/kasamrohith02/Auto-WCEBleedGen-Challenge/assets/143547473/ce2f628e-6770-41e9-86bd-86a0226cb303" width="650px">
+      <br>
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/kasamrohith02/Auto-WCEBleedGen-Challenge/assets/143547473/e7c5aab8-712f-4202-a233-2fe8f502c785"width="650px">
       <br>
     </td>
     <td align="center">
-      <img src="" width="300px">
+      <img src="https://github.com/kasamrohith02/Auto-WCEBleedGen-Challenge/assets/143547473/ce2f628e-6770-41e9-86bd-86a0226cb303" width="650px">
       <br>
     </td>
+  </tr>
+</table>
+<table>
+  <tr>
     <td align="center">
-      <img src="" width="300px">
-      <br>
-    </td>
-    <td align="center">
-      <img src="" width="300px">
+      <img src="https://github.com/kasamrohith02/Auto-WCEBleedGen-Challenge/assets/143547473/e7c5aab8-712f-4202-a233-2fe8f502c785"width="480px">
       <br>
     </td>
   </tr>
