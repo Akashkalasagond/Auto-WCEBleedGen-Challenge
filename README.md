@@ -109,6 +109,111 @@
   </tr>
 </table>
 
+
+# Validation Dataset Showing Its Detection
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/kasamrohith02/Auto-WCEBleedGen-Challenge/assets/143547473/0262e598-946c-4eb7-b14c-a38bd170c074" width="300px">
+      <br>
+    </td>
+    <td align="center">
+      <img src="https://github.com/kasamrohith02/Auto-WCEBleedGen-Challenge/assets/143547473/d199075d-b909-4bb2-a9d4-954349d4ef9c" width="300px">
+      <br>
+    </td>
+    <td align="center">
+      <img src="https://github.com/kasamrohith02/Auto-WCEBleedGen-Challenge/assets/143547473/4d8a047a-d8c2-4ade-a170-01b84d6013b6" width="300px">
+      <br>
+    </td>
+    <td align="center">
+      <img src="https://github.com/kasamrohith02/Auto-WCEBleedGen-Challenge/assets/143547473/f2290b25-18c7-4a53-b6eb-7a07d9e7ec21" width="300px">
+      <br>
+    </td>
+    <td align="center">
+      <img src="https://github.com/kasamrohith02/Auto-WCEBleedGen-Challenge/assets/143547473/aec8627f-8859-41e5-bbac-60729c5f7899" width="300px">
+      <br>
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/kasamrohith02/Auto-WCEBleedGen-Challenge/assets/143547473/510081c5-dd43-464e-a168-ecb2d62a4f80" width="300px">
+      <br>
+    </td>
+    <td align="center">
+      <img src="https://github.com/kasamrohith02/Auto-WCEBleedGen-Challenge/assets/143547473/d87b6826-1b07-4d0b-a702-3a80c8ccb05b" width="300px">
+      <br>
+    </td>
+    <td align="center">
+      <img src="https://github.com/kasamrohith02/Auto-WCEBleedGen-Challenge/assets/143547473/05677fe5-55c6-45d0-ab1b-12957fe27223" width="300px">
+      <br>
+    </td>
+    <td align="center">
+      <img src="https://github.com/kasamrohith02/Auto-WCEBleedGen-Challenge/assets/143547473/fe784393-e14b-4223-ad97-edbcfad8c6cd" width="300px">
+      <br>
+    </td>
+    <td align="center">
+      <img src="https://github.com/kasamrohith02/Auto-WCEBleedGen-Challenge/assets/143547473/54e1a9c7-f567-4cbb-8e21-147909445743" width="300px">
+      <br>
+    </td>
+  </tr>
+</table>
+
+# Testing dataset showing its Detection
+# Test Dataset 1
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/kasamrohith02/Auto-WCEBleedGen-Challenge/assets/143547473/e45bd057-a7b9-4307-bd04-03056362a0d5"width="300px">
+      <br>
+    </td>
+    <td align="center">
+      <img src="https://github.com/kasamrohith02/Auto-WCEBleedGen-Challenge/assets/143547473/ad38f74d-e1b8-433d-8f4f-38a02a3db84f" width="300px">
+      <br>
+    </td>
+    <td align="center">
+      <img src="https://github.com/kasamrohith02/Auto-WCEBleedGen-Challenge/assets/143547473/cc2197ec-5ffa-42e9-bab0-b4fe658424eb" width="300px">
+      <br>
+    </td>
+    <td align="center">
+      <img src="https://github.com/kasamrohith02/Auto-WCEBleedGen-Challenge/assets/143547473/efdf97d2-8d3f-4d38-842e-f0866c42e9d8" width="300px">
+      <br>
+    </td>
+    <td align="center">
+      <img src="https://github.com/kasamrohith02/Auto-WCEBleedGen-Challenge/assets/143547473/5c44dead-c0d1-4900-a162-b2068217f0d1" width="300px">
+      <br>
+    </td>
+  </tr>
+</table>
+
+# Test Dataset 2
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/kasamrohith02/Auto-WCEBleedGen-Challenge/assets/143547473/d3f07121-670c-440d-8a4a-54b2543efe92" width="300px">
+      <br>
+    </td>
+    <td align="center">
+      <img src="https://github.com/kasamrohith02/Auto-WCEBleedGen-Challenge/assets/143547473/3f24f101-030a-4588-96c7-499aa4acd2a9" width="300px">
+      <br>
+    </td>
+    <td align="center">
+      <img src="https://github.com/kasamrohith02/Auto-WCEBleedGen-Challenge/assets/143547473/90b01382-e675-4d55-9d7d-8b484b3883d9" width="300px">
+      <br>
+    </td>
+    <td align="center">
+      <img src="https://github.com/kasamrohith02/Auto-WCEBleedGen-Challenge/assets/143547473/84f706b7-73bd-466d-acf0-401b71128814" width="300px">
+      <br>
+    </td>
+    <td align="center">
+      <img src="https://github.com/kasamrohith02/Auto-WCEBleedGen-Challenge/assets/143547473/418c5858-8b07-4b35-8ca9-a84e4dd26ece" width="300px">
+      <br>
+    </td>
+  </tr>
+</table>
+
 Click the link above to view the Data Profiling Report in your browser [Data Profiling Report](https://htmlpreview.github.io/?https://github.com/kasamrohith02/Auto-WCEBleedGen-Challenge/blob/main/Classification/Data%20Profiling%20report/Data_Profiling_report.html)
 
 
