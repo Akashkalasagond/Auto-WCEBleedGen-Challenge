@@ -393,7 +393,7 @@ Intersection over Union           | 0.50
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/kasamrohith02/Auto-WCEBleedGen-Challenge/assets/143547473/40cb467e-000b-4a39-9987-855be0b88b02" width="470px">
+      <img src="https://github.com/kasamrohith02/Auto-WCEBleedGen-Challenge/assets/143547473/40cb467e-000b-4a39-9987-855be0b88b02" width="450px">
       <br>
     </td>
   </tr>
